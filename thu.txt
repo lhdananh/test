@@ -1,3 +1,4 @@
 tets ;ai
 
 da confg
+thoat ra chua config lai
